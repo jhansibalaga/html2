@@ -1,0 +1,40 @@
+*{
+    margin=0;
+    padding=0;
+    box-sizing: border-box;
+    
+}
+video{
+    width: 100%;
+}
+h1{
+    background-color:antiquewhite;
+    text-align: center;
+    color: chartreuse;
+}
+h2{
+    background-color:antiquewhite;
+    text-align: center;
+    color: chartreuse;
+}
+img{
+    max-width: 400px;
+    height: 300px;
+    margin-left: 50px;
+}
+a{
+    
+    color:blue;
+}
+input{
+    text-align: center;
+}
+label{
+    padding: 50px 50px;
+}
+button{
+    margin-left: 100px;
+}
+marquee{
+    color:crimson;
+}
